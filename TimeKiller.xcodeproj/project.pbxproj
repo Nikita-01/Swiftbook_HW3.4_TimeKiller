@@ -11,6 +11,7 @@
 		6B8D395A27A93CB2000488FC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B8D395927A93CB2000488FC /* ContentView.swift */; };
 		6B8D395C27A93CB3000488FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6B8D395B27A93CB3000488FC /* Assets.xcassets */; };
 		6B8D395F27A93CB3000488FC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6B8D395E27A93CB3000488FC /* Preview Assets.xcassets */; };
+		6B8D396627A93ECB000488FC /* SliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B8D396527A93ECB000488FC /* SliderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		6B8D395927A93CB2000488FC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6B8D395B27A93CB3000488FC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6B8D395E27A93CB3000488FC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6B8D396527A93ECB000488FC /* SliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				6B8D395727A93CB2000488FC /* TimeKillerApp.swift */,
 				6B8D395927A93CB2000488FC /* ContentView.swift */,
+				6B8D396527A93ECB000488FC /* SliderView.swift */,
 				6B8D395B27A93CB3000488FC /* Assets.xcassets */,
 				6B8D395D27A93CB3000488FC /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6B8D396627A93ECB000488FC /* SliderView.swift in Sources */,
 				6B8D395A27A93CB2000488FC /* ContentView.swift in Sources */,
 				6B8D395827A93CB2000488FC /* TimeKillerApp.swift in Sources */,
 			);
